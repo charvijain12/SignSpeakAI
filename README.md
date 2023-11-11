@@ -8,10 +8,11 @@ Gesture Recognition using ASL (American Sign Language) is a project designed for
 
 ## Key Features 🌟
 
-- **CNN Model:** Utilizes a Convolutional Neural Network for accurate gesture recognition.
-- **Training and Evaluation:** The model is trained on a sign language dataset and evaluated for accuracy.
-- **Visualization:** Confusion matrix and classification report provide insights into the model's performance.
-- **User Interaction:** Enables users to interact with the system through gestures.
+- **CNN Model:** Utilizes a Convolutional Neural Network for accurate gesture recognition. 🧠
+- **Training and Evaluation:** The model is trained on a sign language dataset and evaluated for accuracy. 📈
+- **Visualization:** Confusion matrix and classification report provide insights into the model's performance. 📊
+- **User Interaction:** Enables users to interact with the system through gestures. 🤖
+
 
 ## Getting Started 🏁
 
@@ -55,5 +56,4 @@ Contributions are welcome! Feel free to enhance the project, add new features, o
 
 ## License 📄
 
-This project is licensed under the MIT License.
-```
+This project is licensed under the [MIT License](https://github.com/charvijain12/SignSpeakAI/blob/main/LICENSE).
