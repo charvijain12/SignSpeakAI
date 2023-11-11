@@ -1,6 +1,4 @@
-Certainly! Here's the provided content formatted in markdown with code blocks:
-
-# Gesture Recognition using ASL 👐
+# SignSpeakAI - Gesture Recognition using ASL 👐
 
 ## Introduction 🚀
 
@@ -8,10 +6,10 @@ Gesture Recognition using ASL (American Sign Language) is a project designed for
 
 ## Key Features 🌟
 
-- **CNN Model:** Utilizes a Convolutional Neural Network for accurate gesture recognition. 🧠
-- **Training and Evaluation:** The model is trained on a sign language dataset and evaluated for accuracy. 📈
-- **Visualization:** Confusion matrix and classification report provide insights into the model's performance. 📊
-- **User Interaction:** Enables users to interact with the system through gestures. 🤖
+- **CNN Model:** Utilizes a Convolutional Neural Network for accurate gesture recognition 🧠
+- **Training and Evaluation:** The model is trained on a sign language dataset and evaluated for accuracy 📈
+- **Visualization:** Confusion matrix and classification report provide insights into the model's performance 📊
+- **User Interaction:** Enables users to interact with the system through gestures 🤖
 
 
 ## Getting Started 🏁
