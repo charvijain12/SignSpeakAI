@@ -46,7 +46,7 @@ Gesture Recognition using ASL (American Sign Language) is a project designed for
 
 ## Results 📊
 
-The CNN model achieves an accuracy of [accuracy]% on the test set, providing reliable recognition of American Sign Language gestures.
+The CNN model achieves an accuracy of [94]% on the test set, providing reliable recognition of American Sign Language gestures.
 
 ## Contributing 🤝
 
