@@ -28,7 +28,7 @@ Gesture Recognition using ASL (American Sign Language) is a project designed for
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Gesture-Recognition-ASL.git
+   git clone https://github.com/charvijain12/SignSpeakAI.git
    ```
 
 2. Install dependencies:
